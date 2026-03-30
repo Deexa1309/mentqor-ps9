@@ -91,3 +91,8 @@ It helps users:
 ```bash
 pip install streamlit matplotlib requests numpy pandas scipy
 streamlit run app.py
+
+
+Check vid: https://drive.google.com/file/d/1PXnofIvt50TSbuDXkq6VpilcnJezf9W9/view?usp=sharing
+Check presentation: https://drive.google.com/file/d/1JrwDoy6kGTiCt8uu3hD_csaYioeevxoC/view?usp=sharing
+Check Proj_architecture: https://drive.google.com/file/d/1gmIZ3wW4QrgOTWrl0GA5pjuNk6y13e8I/view?usp=sharing
